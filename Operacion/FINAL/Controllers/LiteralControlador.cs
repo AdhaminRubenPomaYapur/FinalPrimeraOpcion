@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System;
-
 namespace FINAL.Controllers
 {
     public class LiteralControlador
